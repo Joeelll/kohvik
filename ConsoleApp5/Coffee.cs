@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleApp5
 {
@@ -32,6 +28,7 @@ namespace ConsoleApp5
             }
             firstTime = true;
             userInput = Console.ReadLine();
+            Console.Clear();
 
             //Coffee types
             if (userInput == "Black coffee")
@@ -71,9 +68,14 @@ namespace ConsoleApp5
             }
             Console.WriteLine("Do you wish to continue? (yes/no)");
             userInput = Console.ReadLine();
+            Console.Clear();
             if (userInput == "yes")
             {
                 return true;
+            }
+            else
+            {
+                Environment.Exit(0);
             }
             return false;
         }

@@ -5,3 +5,10 @@ c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\ConsoleApp5\o
 c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
 c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
 c:\users\opilane\documents\visual studio 2017\Projects\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+C:\Users\opilane\Documents\GitHub\kohvik\ConsoleApp5\bin\Debug\ConsoleApp5.pdb

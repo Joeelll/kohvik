@@ -48,6 +48,7 @@
     <Compile Include="Coffee.cs" />
     <Compile Include="CoffeeWithMilk.cs" />
     <Compile Include="Espresso.cs" />
+    <Compile Include="food.cs" />
     <Compile Include="Latte.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
